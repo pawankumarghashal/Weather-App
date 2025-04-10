@@ -2,7 +2,7 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
-import SearchBox from './SearchBOx';
+import SearchBox from './SearchBox';
 import "./SearchBox.css"
 import AcUnitOutlinedIcon from '@mui/icons-material/AcUnitOutlined';
 import WbSunnyOutlinedIcon from '@mui/icons-material/WbSunnyOutlined';
